@@ -16,6 +16,7 @@
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" height="40em" width="50em" src="https://www.oriongovernance.com/wp-content/uploads/2022/08/Cobol.png" />
 </div>          
 
 ##
