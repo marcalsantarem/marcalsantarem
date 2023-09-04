@@ -1,21 +1,21 @@
 ### Olá! Meu nome é Marçal, seja bem vindo ao meu Github! 😁
 
-- 🔭 Eu estou trabalhando atualmente no meu portfolio online, que pode ser encontrado <a href="https://marcalsantarem.netlify.app" target="_blank">aqui</a>
-- 🌱 No momento estou estudando sobre ReactJs
 - 📫 Como me contatar: marcalsantarem@gmail.com
 
 ##
 
-## Algumas linguagens que eu gosto de estudar/trabalhar
+## Algumas linguagens que eu já tive contato
 
 <div style="display: inline_block">
+  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
-  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />          
+  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 </div>          
 
 ##
