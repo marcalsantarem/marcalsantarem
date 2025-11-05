@@ -10,7 +10,7 @@ You can contact me in the following social links:
 
 ##
 
-I'm currently learning Spring Boot, API Restful and Microservices
+I'm currently learning about C#, .NET Core and ASP.Net
 
 ##
 
@@ -21,8 +21,9 @@ Stacks:
 <div style="display: inline_block">
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+          
 </div> 
 <br />
 I also already had contact w/:
@@ -30,9 +31,10 @@ I also already had contact w/:
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
   <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
 <br />  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcalsantarem&layout=compact&theme=vue-dark&border_radius=10&locale=pt-br" />
